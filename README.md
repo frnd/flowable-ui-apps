@@ -18,6 +18,8 @@ docker-compose up
 This command will create the containers using latest flowable version and you will be able to login with username 'admin' 
 and password 'test'.
 
+Important: changing the admin password is not possible at this moment because this [Issue #1](https://github.com/frnd/flowable-ui-apps/issues/1)
+
 # Services provided
 
 https://sketchboard.me/NA2mTv5pmSMt#/
